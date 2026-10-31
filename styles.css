@@ -5,3 +5,10 @@ body {
 h1 {
     color:blueviolet;
 }
+
+header {
+    background-color: antiquewhite;
+}
+ul {
+    color: brown;
+}
