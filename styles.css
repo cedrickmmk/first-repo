@@ -12,3 +12,9 @@ header {
 ul {
     color: brown;
 }
+
+footer {
+    font-style: initial;
+    color: black;
+    background-color: aquamarine;
+}
